@@ -165,14 +165,14 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) (in Indonesian)
 
 | Name | Role |
 |---|---|
-| Dunwill William | Project Lead |
+| Dunhill William | Project Lead |
 | Fredy Ramadhan | R&D |
-| Hany Wachidatul Aisyah | R&D |
-| Ian | R&D |
-| Ivan | R&D |
-| Kevin | R&D |
-| Mutia | R&D |
-| Saidah | R&D |
+| Hany Wachidatul | R&D |
+| Febrian Jamaludin | R&D |
+| Ivan Wahyu | R&D |
+| Kevin Marchelino | R&D |
+| Mutia Rahman | R&D |
+| Usrotun Saidah | R&D |
 
 ---
 
